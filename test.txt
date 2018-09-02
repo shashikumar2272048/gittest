@@ -9,3 +9,8 @@ git status
 git add "file name"
 
 git commit -m "dexcription"
+
+git add -A  //to add all files
+
+git log 
+
