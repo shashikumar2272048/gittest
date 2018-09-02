@@ -8,9 +8,15 @@ git status
 
 git add "file name"
 
-git commit -m "dexcription"
+git commit -m "dexcription"    // m for message 
 
 git add -A  //to add all files
 
 git log 
+
+git branch firstbranch
+
+git checkout firstbranch
+
+
 
