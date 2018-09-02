@@ -1,1 +1,11 @@
 first file
+
+git remote add origin "https://github.com/shashikumar2272048/gittest.git"
+git pull origin master
+
+
+git status
+
+git add "file name"
+
+git commit -m "dexcription"
