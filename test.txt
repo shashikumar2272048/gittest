@@ -23,6 +23,15 @@ ssh-keygen
 
 git config --global --list
 
+vi ~/.gitconfig    file where congig save in user login folder home dir
+
+rm initializr-verekia-4.0.zip  remove file
+
+cp /c/Download/gsg.txt .       //coppy from to= current
+
+$ mv initializr/ myRepoFromExistingSource    rename folder
+
+
 
 
 
