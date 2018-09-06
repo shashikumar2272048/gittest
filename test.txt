@@ -21,5 +21,8 @@ git checkout firstbranch
 
 ssh-keygen
 
+git config --global --list
+
+
 
 
